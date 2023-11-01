@@ -4,6 +4,10 @@ void foo(){
     printf("Foo!!\n");
 }
 
+void goo(){
+    printf("Goo!!\n");
+}
+
 int main(){
     printf("Hello!\n");
     printf("Hello World!\n");
