@@ -16,6 +16,7 @@ int main(){
     printf("bug\n");
 
     foo();
+    goo();
 
     return 0;
 }
