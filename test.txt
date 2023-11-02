@@ -1,0 +1,5 @@
+total 12
+-rwxr-xr-x 1 jsh jsh  63 Nov  2 12:47 Bye
+-rwxr-xr-x 1 jsh jsh 271 Nov  2 12:33 hello.txt
+-rwxr-xr-x 1 jsh jsh 132 Nov  2 12:45 sum
+-rw-r--r-- 1 jsh jsh   0 Nov  2 13:22 test.txt
